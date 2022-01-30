@@ -1,7 +1,7 @@
 # Hello world!
 
 Welcome to my webpage!
-<img src="C:\Users\razor\OneDrive\Pictures\Wallpapers\evol_mandelbrot.jpeg" width="400" height="600" alt="hi" class="inline"/>
+![Alt text](https://c4.wallpaperflare.com/wallpaper/320/157/310/fractal-mandelbrot-set-wallpaper-preview.jpg)
 
 ## Masaccio Braun
 
@@ -18,18 +18,16 @@ Philosophy Major
 
 ### Mandelbrot Set
 
-<img src="C:\Users\razor\OneDrive\Pictures\Wallpapers\mandelbrot_set.jpeg" width="400" height="600" alt="hi" class="inline"/>
+![Alt text](https://wallpapercave.com/wp/BLwLejR.jpg)
 
 The Mandelbrot set is a set of complex numbers which does not diverge to infinity when iterated from $z=0$.  It is represented by the function:
 
-$\begin{aligned}z_{n+1}=z_{n}^2 + c\end{aligned}$
+$z_{n+1}=z_{n}^2 + c$
 
 ### Python Code for LOESS Model
 
 Here we will perform a locally weighted linear regression on the data from the mtcars.csv dataset
 
-<<engine='python', engine.path='python3'>>=
-@
 ```Python
 # Hi-rez images
 %matplotlib inline
@@ -66,4 +64,3 @@ plt.show()
 ```
 ### Graph of LOESS Model
 This is the output when the above code is run.
-<img src="C:\Users\razor\OneDrive\Documents\DATA 410\loess_reg.png" width="400" height="600" alt="hi" class="inline"/>
