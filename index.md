@@ -22,7 +22,7 @@ Philosophy Major
 
 The Mandelbrot set is a set of complex numbers which does not diverge to infinity when iterated from $z=0$.  It is represented by the function:
 
-<img src="https://render.githubusercontent.com/render/math?math=z_%7Bn%2B1%7D%3Dz_n%5E2%2Bc">
+<img src="https://render.githubusercontent.com/render/math?math=z_%7Bn%2B1%7D%3Dz_n%5E2%2Bc" width="600">
 
 ### Python Code for LOESS Model
 
