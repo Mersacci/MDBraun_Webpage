@@ -8,8 +8,11 @@ Welcome to my webpage!
 
 #### Education
 **The College of William and Mary**
+
 *Bachelor of Science*
+
 Data Science Major, Data Applications Concentration
+
 Philosophy Major
 
 #### Interests
