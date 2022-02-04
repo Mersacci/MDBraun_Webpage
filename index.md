@@ -1,7 +1,6 @@
 # Hello world!
 
 Welcome to my webpage!
-
 ![Alt text](https://c4.wallpaperflare.com/wallpaper/320/157/310/fractal-mandelbrot-set-wallpaper-preview.jpg)
 
 ## Masaccio Braun
@@ -23,7 +22,7 @@ Philosophy Major
 
 The Mandelbrot set is a set of complex numbers which does not diverge to infinity when iterated from $z=0$.  It is represented by the function:
 
-$z_{n+1}=z_{n}^2 + c$
+![img](http://latex.codecogs.com/svg.latex?%24z_%7Bn%2B1%7D%3Dz_%7Bn%7D%5E2+%2B+c%24)
 
 ### Python Code for LOESS Model
 
@@ -65,3 +64,4 @@ plt.show()
 ```
 ### Graph of LOESS Model
 This is the output when the above code is run.
+![loess_graph](https://user-images.githubusercontent.com/85206050/152606204-bf0f03d6-8793-48df-bf6f-8c6fb3da7717.png)
